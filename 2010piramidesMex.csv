@@ -1,0 +1,673 @@
+Estado,RangoMin,Poblacion
+Aguascalientes,0,121557
+Aguascalientes,5,128874
+Aguascalientes,10,123806
+Aguascalientes,15,121428
+Aguascalientes,20,106305
+Aguascalientes,25,93604
+Aguascalientes,30,88726
+Aguascalientes,35,86254
+Aguascalientes,40,73084
+Aguascalientes,45,60198
+Aguascalientes,50,49980
+Aguascalientes,55,37543
+Aguascalientes,60,29258
+Aguascalientes,65,21004
+Aguascalientes,70,15254
+Aguascalientes,75,10673
+Aguascalientes,80,7228
+Aguascalientes,85,4061
+Aguascalientes,90,1467
+Aguascalientes,95,551
+Aguascalientes,100,109
+Baja California,0,293234
+Baja California,5,303180
+Baja California,10,305472
+Baja California,15,299195
+Baja California,20,286479
+Baja California,25,265428
+Baja California,30,264023
+Baja California,35,264063
+Baja California,40,215049
+Baja California,45,171104
+Baja California,50,136690
+Baja California,55,97874
+Baja California,60,75229
+Baja California,65,52560
+Baja California,70,37742
+Baja California,75,24055
+Baja California,80,14744
+Baja California,85,7764
+Baja California,90,2641
+Baja California,95,913
+Baja California,100,206
+Baja California Sur,0,60758
+Baja California Sur,5,60334
+Baja California Sur,10,57380
+Baja California Sur,15,57713
+Baja California Sur,20,58690
+Baja California Sur,25,57525
+Baja California Sur,30,56159
+Baja California Sur,35,52235
+Baja California Sur,40,42163
+Baja California Sur,45,34308
+Baja California Sur,50,28122
+Baja California Sur,55,20188
+Baja California Sur,60,14895
+Baja California Sur,65,10279
+Baja California Sur,70,7012
+Baja California Sur,75,4598
+Baja California Sur,80,2805
+Baja California Sur,85,1589
+Baja California Sur,90,655
+Baja California Sur,95,223
+Baja California Sur,100,58
+Campeche,0,76925
+Campeche,5,78299
+Campeche,10,81314
+Campeche,15,82920
+Campeche,20,76388
+Campeche,25,68197
+Campeche,30,64927
+Campeche,35,61896
+Campeche,40,50522
+Campeche,45,42811
+Campeche,50,35658
+Campeche,55,28316
+Campeche,60,21379
+Campeche,65,15079
+Campeche,70,12890
+Campeche,75,8320
+Campeche,80,5254
+Campeche,85,3209
+Campeche,90,1127
+Campeche,95,479
+Campeche,100,142
+Chiapas,0,540459
+Chiapas,5,554692
+Chiapas,10,549896
+Chiapas,15,530233
+Chiapas,20,438019
+Chiapas,25,366537
+Chiapas,30,335370
+Chiapas,35,307983
+Chiapas,40,246620
+Chiapas,45,212924
+Chiapas,50,174407
+Chiapas,55,137559
+Chiapas,60,110499
+Chiapas,65,78922
+Chiapas,70,68500
+Chiapas,75,39750
+Chiapas,80,24678
+Chiapas,85,13513
+Chiapas,90,5569
+Chiapas,95,2583
+Chiapas,100,1467
+Chihuahua,0,322676
+Chihuahua,5,335064
+Chihuahua,10,324661
+Chihuahua,15,322034
+Chihuahua,20,285872
+Chihuahua,25,255036
+Chihuahua,30,251304
+Chihuahua,35,259968
+Chihuahua,40,222756
+Chihuahua,45,183153
+Chihuahua,50,149069
+Chihuahua,55,108607
+Chihuahua,60,89542
+Chihuahua,65,68809
+Chihuahua,70,54419
+Chihuahua,75,34386
+Chihuahua,80,20704
+Chihuahua,85,10184
+Chihuahua,90,3294
+Chihuahua,95,1101
+Chihuahua,100,286
+Ciudad de México,0,618245
+Ciudad de México,5,658948
+Ciudad de México,10,660345
+Ciudad de México,15,723372
+Ciudad de México,20,753404
+Ciudad de México,25,726696
+Ciudad de México,30,702642
+Ciudad de México,35,722214
+Ciudad de México,40,629563
+Ciudad de México,45,555481
+Ciudad de México,50,506310
+Ciudad de México,55,392186
+Ciudad de México,60,315793
+Ciudad de México,65,227625
+Ciudad de México,70,179329
+Ciudad de México,75,124499
+Ciudad de México,80,85121
+Ciudad de México,85,47170
+Ciudad de México,90,17225
+Ciudad de México,95,5797
+Ciudad de México,100,1089
+Coahuila,0,258246
+Coahuila,5,270736
+Coahuila,10,268193
+Coahuila,15,261942
+Coahuila,20,230132
+Coahuila,25,210236
+Coahuila,30,216325
+Coahuila,35,211770
+Coahuila,40,177554
+Coahuila,45,150271
+Coahuila,50,125961
+Coahuila,55,95121
+Coahuila,60,77527
+Coahuila,65,55667
+Coahuila,70,42832
+Coahuila,75,27610
+Coahuila,80,17076
+Coahuila,85,9002
+Coahuila,90,2959
+Coahuila,95,1008
+Coahuila,100,263
+Colima,0,58263
+Colima,5,59869
+Colima,10,59473
+Colima,15,62323
+Colima,20,60070
+Colima,25,53136
+Colima,30,50521
+Colima,35,48863
+Colima,40,41432
+Colima,45,35812
+Colima,50,30917
+Colima,55,23301
+Colima,60,18355
+Colima,65,13806
+Colima,70,10239
+Colima,75,6976
+Colima,80,4565
+Colima,85,2906
+Colima,90,1259
+Colima,95,499
+Colima,100,123
+Durango,0,161700
+Durango,5,166853
+Durango,10,167180
+Durango,15,166366
+Durango,20,143377
+Durango,25,117714
+Durango,30,115294
+Durango,35,112837
+Durango,40,96859
+Durango,45,82516
+Durango,50,70274
+Durango,55,53875
+Durango,60,44693
+Durango,65,34601
+Durango,70,29733
+Durango,75,19595
+Durango,80,12039
+Durango,85,6079
+Durango,90,1953
+Durango,95,753
+Durango,100,235
+Estado de México,0,1426612
+Estado de México,5,1498274
+Estado de México,10,1429028
+Estado de México,15,1467148
+Estado de México,20,1364380
+Estado de México,25,1233854
+Estado de México,30,1198515
+Estado de México,35,1193988
+Estado de México,40,1003492
+Estado de México,45,831164
+Estado de México,50,695328
+Estado de México,55,509884
+Estado de México,60,392349
+Estado de México,65,270138
+Estado de México,70,200542
+Estado de México,75,129423
+Estado de México,80,78893
+Estado de México,85,44498
+Estado de México,90,14612
+Estado de México,95,5814
+Estado de México,100,1378
+Guanajuato,0,547466
+Guanajuato,5,579121
+Guanajuato,10,580600
+Guanajuato,15,570965
+Guanajuato,20,493167
+Guanajuato,25,425291
+Guanajuato,30,407712
+Guanajuato,35,387687
+Guanajuato,40,324654
+Guanajuato,45,266465
+Guanajuato,50,225760
+Guanajuato,55,174400
+Guanajuato,60,140229
+Guanajuato,65,105229
+Guanajuato,70,86650
+Guanajuato,75,60341
+Guanajuato,80,42362
+Guanajuato,85,24163
+Guanajuato,90,8603
+Guanajuato,95,3588
+Guanajuato,100,766
+Guerrero,0,353009
+Guerrero,5,378197
+Guerrero,10,393378
+Guerrero,15,372191
+Guerrero,20,290684
+Guerrero,25,237815
+Guerrero,30,223482
+Guerrero,35,211923
+Guerrero,40,178482
+Guerrero,45,158413
+Guerrero,50,137260
+Guerrero,55,110858
+Guerrero,60,89041
+Guerrero,65,72733
+Guerrero,70,66668
+Guerrero,75,43749
+Guerrero,80,26491
+Guerrero,85,14892
+Guerrero,90,5898
+Guerrero,95,2810
+Guerrero,100,1186
+Hidalgo,0,255202
+Hidalgo,5,271181
+Hidalgo,10,263026
+Hidalgo,15,269602
+Hidalgo,20,226170
+Hidalgo,25,201034
+Hidalgo,30,197047
+Hidalgo,35,191131
+Hidalgo,40,162857
+Hidalgo,45,140325
+Hidalgo,50,120304
+Hidalgo,55,95265
+Hidalgo,60,74476
+Hidalgo,65,57669
+Hidalgo,70,48068
+Hidalgo,75,31279
+Hidalgo,80,19997
+Hidalgo,85,12043
+Hidalgo,90,4577
+Hidalgo,95,1952
+Hidalgo,100,654
+Jalisco,0,694948
+Jalisco,5,727075
+Jalisco,10,714393
+Jalisco,15,715003
+Jalisco,20,669088
+Jalisco,25,592033
+Jalisco,30,548117
+Jalisco,35,535234
+Jalisco,40,446601
+Jalisco,45,371541
+Jalisco,50,324277
+Jalisco,55,254380
+Jalisco,60,210465
+Jalisco,65,155337
+Jalisco,70,118204
+Jalisco,75,80747
+Jalisco,80,53964
+Jalisco,85,32720
+Jalisco,90,13596
+Jalisco,95,5206
+Jalisco,100,1084
+Michoacán,0,425698
+Michoacán,5,434860
+Michoacán,10,443721
+Michoacán,15,453827
+Michoacán,20,392338
+Michoacán,25,322064
+Michoacán,30,303108
+Michoacán,35,290448
+Michoacán,40,247704
+Michoacán,45,212627
+Michoacán,50,188305
+Michoacán,55,147873
+Michoacán,60,122951
+Michoacán,65,96347
+Michoacán,70,83990
+Michoacán,75,58813
+Michoacán,80,40032
+Michoacán,85,23160
+Michoacán,90,8949
+Michoacán,95,3839
+Michoacán,100,1046
+Morelos,0,155669
+Morelos,5,166908
+Morelos,10,167487
+Morelos,15,175625
+Morelos,20,155671
+Morelos,25,133544
+Morelos,30,128812
+Morelos,35,129072
+Morelos,40,111381
+Morelos,45,97105
+Morelos,50,86282
+Morelos,55,66904
+Morelos,60,53604
+Morelos,65,40104
+Morelos,70,32988
+Morelos,75,23535
+Morelos,80,14917
+Morelos,85,8567
+Morelos,90,2702
+Morelos,95,1134
+Morelos,100,327
+Nayarit,0,106044
+Nayarit,5,104943
+Nayarit,10,104308
+Nayarit,15,107191
+Nayarit,20,96693
+Nayarit,25,82067
+Nayarit,30,79520
+Nayarit,35,78128
+Nayarit,40,64675
+Nayarit,45,55916
+Nayarit,50,48769
+Nayarit,55,39899
+Nayarit,60,32069
+Nayarit,65,25368
+Nayarit,70,21066
+Nayarit,75,13928
+Nayarit,80,8690
+Nayarit,85,5111
+Nayarit,90,2113
+Nayarit,95,799
+Nayarit,100,247
+Nuevo León,0,413360
+Nuevo León,5,430525
+Nuevo León,10,415368
+Nuevo León,15,406428
+Nuevo León,20,401723
+Nuevo León,25,384086
+Nuevo León,30,383736
+Nuevo León,35,383357
+Nuevo León,40,321008
+Nuevo León,45,260606
+Nuevo León,50,220801
+Nuevo León,55,162140
+Nuevo León,60,132607
+Nuevo León,65,96803
+Nuevo León,70,75631
+Nuevo León,75,48049
+Nuevo León,80,30455
+Nuevo León,85,16005
+Nuevo León,90,5394
+Nuevo León,95,1874
+Nuevo León,100,460
+Oaxaca,0,373371
+Oaxaca,5,399632
+Oaxaca,10,414392
+Oaxaca,15,406873
+Oaxaca,20,313523
+Oaxaca,25,268969
+Oaxaca,30,259112
+Oaxaca,35,244019
+Oaxaca,40,208666
+Oaxaca,45,187021
+Oaxaca,50,163536
+Oaxaca,55,134078
+Oaxaca,60,110092
+Oaxaca,65,90363
+Oaxaca,70,80884
+Oaxaca,75,55599
+Oaxaca,80,35768
+Oaxaca,85,21170
+Oaxaca,90,7840
+Oaxaca,95,3406
+Oaxaca,100,1047
+Puebla,0,574513
+Puebla,5,620386
+Puebla,10,604845
+Puebla,15,604094
+Puebla,20,511685
+Puebla,25,441558
+Puebla,30,420492
+Puebla,35,394961
+Puebla,40,328556
+Puebla,45,279425
+Puebla,50,240020
+Puebla,55,188919
+Puebla,60,150565
+Puebla,65,115990
+Puebla,70,96685
+Puebla,75,67019
+Puebla,80,43367
+Puebla,85,26380
+Puebla,90,9528
+Puebla,95,3845
+Puebla,100,1057
+Querétaro,0,178916
+Querétaro,5,183541
+Querétaro,10,182608
+Querétaro,15,187241
+Querétaro,20,168520
+Querétaro,25,153300
+Querétaro,30,145169
+Querétaro,35,138438
+Querétaro,40,114275
+Querétaro,45,93449
+Querétaro,50,76870
+Querétaro,55,56288
+Querétaro,60,42991
+Querétaro,65,31562
+Querétaro,70,24701
+Querétaro,75,16494
+Querétaro,80,10760
+Querétaro,85,6400
+Querétaro,90,2344
+Querétaro,95,922
+Querétaro,100,207
+Quintana Roo,0,133228
+Quintana Roo,5,126996
+Quintana Roo,10,121308
+Quintana Roo,15,128650
+Quintana Roo,20,135549
+Quintana Roo,25,130616
+Quintana Roo,30,120654
+Quintana Roo,35,111169
+Quintana Roo,40,86941
+Quintana Roo,45,64630
+Quintana Roo,50,48629
+Quintana Roo,55,34052
+Quintana Roo,60,24478
+Quintana Roo,65,15430
+Quintana Roo,70,10761
+Quintana Roo,75,6453
+Quintana Roo,80,3639
+Quintana Roo,85,2070
+Quintana Roo,90,761
+Quintana Roo,95,297
+Quintana Roo,100,76
+San Luis Potos’,0,247057
+San Luis Potos’,5,268914
+San Luis Potos’,10,270154
+San Luis Potos’,15,269673
+San Luis Potos’,20,219720
+San Luis Potos’,25,189105
+San Luis Potos’,30,180250
+San Luis Potos’,35,175642
+San Luis Potos’,40,152372
+San Luis Potos’,45,131221
+San Luis Potos’,50,112519
+San Luis Potos’,55,87476
+San Luis Potos’,60,72960
+San Luis Potos’,65,56671
+San Luis Potos’,70,50213
+San Luis Potos’,75,34695
+San Luis Potos’,80,23325
+San Luis Potos’,85,13437
+San Luis Potos’,90,4303
+San Luis Potos’,95,1824
+San Luis Potos’,100,548
+Sinaloa,0,252443
+Sinaloa,5,264538
+Sinaloa,10,270555
+Sinaloa,15,275540
+Sinaloa,20,242907
+Sinaloa,25,207840
+Sinaloa,30,207002
+Sinaloa,35,207622
+Sinaloa,40,176453
+Sinaloa,45,149915
+Sinaloa,50,131472
+Sinaloa,55,103936
+Sinaloa,60,83594
+Sinaloa,65,64032
+Sinaloa,70,51023
+Sinaloa,75,31659
+Sinaloa,80,19463
+Sinaloa,85,10809
+Sinaloa,90,4102
+Sinaloa,95,1625
+Sinaloa,100,418
+Sonora,0,250969
+Sonora,5,259950
+Sonora,10,256883
+Sonora,15,251510
+Sonora,20,228147
+Sonora,25,207251
+Sonora,30,205910
+Sonora,35,202731
+Sonora,40,172253
+Sonora,45,147842
+Sonora,50,128595
+Sonora,55,97274
+Sonora,60,74443
+Sonora,65,56240
+Sonora,70,43912
+Sonora,75,28060
+Sonora,80,17019
+Sonora,85,8961
+Sonora,90,3075
+Sonora,95,940
+Sonora,100,224
+Tabasco,0,223692
+Tabasco,5,225061
+Tabasco,10,220776
+Tabasco,15,224257
+Tabasco,20,206842
+Tabasco,25,185871
+Tabasco,30,174392
+Tabasco,35,164922
+Tabasco,40,136000
+Tabasco,45,116426
+Tabasco,50,95109
+Tabasco,55,72350
+Tabasco,60,51726
+Tabasco,65,38728
+Tabasco,70,32532
+Tabasco,75,21048
+Tabasco,80,12257
+Tabasco,85,7134
+Tabasco,90,2669
+Tabasco,95,1297
+Tabasco,100,536
+Tamaulipas,0,302937
+Tamaulipas,5,305122
+Tamaulipas,10,294469
+Tamaulipas,15,291682
+Tamaulipas,20,275453
+Tamaulipas,25,258116
+Tamaulipas,30,255313
+Tamaulipas,35,250586
+Tamaulipas,40,213736
+Tamaulipas,45,177182
+Tamaulipas,50,147748
+Tamaulipas,55,109317
+Tamaulipas,60,89766
+Tamaulipas,65,66138
+Tamaulipas,70,53619
+Tamaulipas,75,35422
+Tamaulipas,80,22387
+Tamaulipas,85,12078
+Tamaulipas,90,3852
+Tamaulipas,95,1427
+Tamaulipas,100,408
+Tlaxcala,0,116073
+Tlaxcala,5,123330
+Tlaxcala,10,118634
+Tlaxcala,15,119172
+Tlaxcala,20,104781
+Tlaxcala,25,93720
+Tlaxcala,30,90612
+Tlaxcala,35,84560
+Tlaxcala,40,71030
+Tlaxcala,45,58822
+Tlaxcala,50,49362
+Tlaxcala,55,36171
+Tlaxcala,60,28530
+Tlaxcala,65,21997
+Tlaxcala,70,17497
+Tlaxcala,75,13009
+Tlaxcala,80,8741
+Tlaxcala,85,5477
+Tlaxcala,90,1997
+Tlaxcala,95,794
+Tlaxcala,100,187
+Veracruz,0,662288
+Veracruz,5,728767
+Veracruz,10,741526
+Veracruz,15,759388
+Veracruz,20,642093
+Veracruz,25,557762
+Veracruz,30,539685
+Veracruz,35,542754
+Veracruz,40,486810
+Veracruz,45,424845
+Veracruz,50,365591
+Veracruz,55,298171
+Veracruz,60,239698
+Veracruz,65,183836
+Veracruz,70,155346
+Veracruz,75,100119
+Veracruz,80,62627
+Veracruz,85,35565
+Veracruz,90,13213
+Veracruz,95,5967
+Veracruz,100,2186
+Yucatán,0,170727
+Yucatán,5,181587
+Yucatán,10,182604
+Yucatán,15,192027
+Yucatán,20,183322
+Yucatán,25,160355
+Yucatán,30,151440
+Yucatán,35,145205
+Yucatán,40,116699
+Yucatán,45,101202
+Yucatán,50,87918
+Yucatán,55,73419
+Yucatán,60,61572
+Yucatán,65,44092
+Yucatán,70,35779
+Yucatán,75,24558
+Yucatán,80,15627
+Yucatán,85,9540
+Yucatán,90,3815
+Yucatán,95,1289
+Yucatán,100,202
+Zacatecas,0,152037
+Zacatecas,5,151780
+Zacatecas,10,152154
+Zacatecas,15,150499
+Zacatecas,20,131079
+Zacatecas,25,107817
+Zacatecas,30,105427
+Zacatecas,35,101327
+Zacatecas,40,88979
+Zacatecas,45,74010
+Zacatecas,50,62448
+Zacatecas,55,47741
+Zacatecas,60,41090
+Zacatecas,65,34106
+Zacatecas,70,29225
+Zacatecas,75,21022
+Zacatecas,80,13941
+Zacatecas,85,8507
+Zacatecas,90,2832
+Zacatecas,95,1176
+Zacatecas,100,253
